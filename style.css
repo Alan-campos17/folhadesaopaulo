@@ -16,3 +16,7 @@
     margin: 0 auto;
   }
 
+  img:hover {
+    cursor: pointer; /* muda o cursor para uma mãozinha */
+    border: 1px solid #ccc; /* adiciona um bordo ao redor da imagem */
+  }
