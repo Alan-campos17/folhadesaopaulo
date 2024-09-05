@@ -2,9 +2,11 @@
     display: block;
     margin: 0 auto;
   }
+
   body{
     background-color: bisque;
   }
+
   .imagem-center{
     display: block;
     margin: 0 auto;
@@ -13,3 +15,4 @@
     display: block;
     margin: 0 auto;
   }
+
