@@ -21,15 +21,19 @@ body {
 }
 
 img:hover {
-  cursor: pointer;
-  /* muda o cursor para uma mãozinha */
-  border: 1px solid #ccc;
-  /* adiciona um bordo ao redor da imagem */
+
 }
 
 .pequeno{
   width: 25px;
   height: auto;
+}
+
+.pequeno:hover{
+  cursor: pointer;
+  /* muda o cursor para uma mãozinha */
+  border: 1px solid #ccc;
+  /* adiciona um bordo ao redor da imagem */
 }
 
 h1,h2,h3{
