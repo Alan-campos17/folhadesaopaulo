@@ -26,7 +26,6 @@ img:hover {
   /* adiciona um bordo ao redor da imagem */
 }
 
-img {
-  width: auto;
-  height: 50px;
+.pequeno{
+  width: 50px;
 }
