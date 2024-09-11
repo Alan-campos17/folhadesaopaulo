@@ -1,24 +1,32 @@
 .imagem-centralizada {
-    display: block;
-    margin: 0 auto;
-  }
+  display: block;
+  margin: 0 auto;
+}
 
-  body{
-    background-color: bisque;
-    margin: 0 auto;
-    border: 1px solid #ccc;
-  }
+body {
+  background-color: bisque;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+}
 
-  .imagem-center{
-    display: block;
-    margin: 0 auto;
-  }
-  .banner-centro{
-    display: block;
-    margin: 0 auto;
-  }
+.imagem-center {
+  display: block;
+  margin: 0 auto;
+}
 
-  img:hover {
-    cursor: pointer; /* muda o cursor para uma mãozinha */
-    border: 1px solid #ccc; /* adiciona um bordo ao redor da imagem */
-  }
+.banner-centro {
+  display: block;
+  margin: 0 auto;
+}
+
+img:hover {
+  cursor: pointer;
+  /* muda o cursor para uma mãozinha */
+  border: 1px solid #ccc;
+  /* adiciona um bordo ao redor da imagem */
+}
+
+img {
+  width: auto;
+  height: 50px;
+}
