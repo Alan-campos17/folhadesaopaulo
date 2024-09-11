@@ -29,7 +29,7 @@ img:hover {
   height: auto;
 }
 
-.pequeno:hover{
+.img.pequeno:hover{
   cursor: pointer;
   /* muda o cursor para uma mãozinha */
   border: 1px solid #ccc;
