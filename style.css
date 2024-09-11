@@ -7,8 +7,7 @@ body {
   background-color: bisque;
   margin: 0 auto;
   border: 1px solid #ccc;
-  display: block;
-  margin: 0 auto;
+
 }
 
 .imagem-center {
@@ -32,3 +31,4 @@ img:hover {
   width: 25px;
   height: auto;
 }
+
